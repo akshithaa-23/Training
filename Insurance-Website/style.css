@@ -1,0 +1,346 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    background:rgb(159, 21, 67);
+    /* position: sticky; */
+    position: sticky;
+}
+.head-bar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px 40px;
+}
+
+.logo{
+    align-items: center;
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+}
+
+.nav{
+    display:flex;
+    justify-content: space-around;
+}
+.list{
+    list-style: none;
+    display: flex;
+    gap:10px;
+    padding:16px;
+    color: white;
+}
+.list {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 16px;
+}
+
+.list li a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 6px 10px;
+    transition: color 0.3s ease,;
+}
+.list li a:hover {
+    color: #f0e7db;
+    border-bottom: 1.5px solid #f0e7db;
+}
+
+/* Active page (optional) */
+.list li a.active {
+    border-bottom: 2px solid #ffffff;
+}
+
+img{
+    width:45px;
+    height:45px;
+}
+
+/* Hero */
+.hero{
+    padding-top:80px;
+    padding-bottom:80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    gap:10px;
+    background-color:rgb(240, 231, 219);
+}
+.Plan-Section{
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+align-items:center ;
+justify-content: center;
+ padding: 20px;
+ background-color:rgb(159, 21, 67);
+}
+.bt{
+    justify-content: center;
+}
+
+.plan-sec {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.plan-sec:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.plan-sec img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;   
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+.plan-sec h3 {
+    margin: 10px 0 6px;
+    color: white;
+}
+
+.plan-sec p {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.help {
+    text-decoration: none;
+    color: #e76f51;
+    font-weight: 600;
+}
+.Feature{
+    display:flex;
+    flex-direction:column;
+    /* align-items: center; */
+    justify-content: center;
+    background-color:rgb(240, 231, 219);
+
+}
+.Feature-main p{
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #2f2f2f;
+    
+}
+.Feature{
+ max-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: (159, 21, 67)
+}
+.Feature > div {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.Feature > div::before {
+    content: "";
+    width: 48px;
+    height: 48px;
+    min-width: 48px;
+    border-radius: 50%;
+    background-color:rgb(159, 21, 67);
+    margin-top: 4px;
+}
+
+.Feature h3 {
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    color: #111;
+}
+
+.Feature p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+    max-width: 700px;
+}
+.stats {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 40px;
+    background-color: ;
+    width: 100%;
+}
+
+.stat-box {
+    flex: 1;
+    background-color:rgb(159, 21, 67);
+    color: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+.stat-box:hover {
+    transform: translateY(-6px);
+}
+
+.stat-box h2 {
+    font-size: 36px;
+    margin-bottom: 8px;
+    font-weight: 700;
+}
+
+.stat-box p {
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.fillform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  background-color:rgb(240, 231, 219);
+}
+
+.fillform form {
+    background-color: #ffffff;
+    padding: 30px 35px;
+    width: 650px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgb(159, 21, 67);
+   
+}
+
+.fillform label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(159, 21, 67);
+}
+
+.fillform input[type="text"],
+.fillform input[type="email"],
+.fillform input[type="tel"],
+.fillform select,
+.fillform textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    outline: none;
+}
+
+.fillform input:focus,
+.fillform select:focus,
+.fillform textarea:focus {
+    border-color: rgb(159, 21, 67);
+}
+
+.fillform input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    background-color:  rgb(159, 21, 67);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+/* Button hover */
+.fillform input[type="submit"]:hover {
+    background-color:  rgb(159, 21, 67);
+    transform: translateY(-2px);
+}
+.foot{
+    background:rgb(159, 21, 67);
+    /* position: sticky; */
+    position: sticky;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-evenly;
+}
+.foot-bar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px 40px;
+}
+.logo1 img {
+    width: 200px;   
+    height: auto;
+}
+.foot-bar2 {
+    text-align:end;
+    padding: 20px;
+    font-size: 15px;
+    color: white;
+    background-color:rgb(159, 21, 67);
+}
+
+.foot-bar2 p {
+    margin: 5px 0;
+}
+
+body {
+    background-color:rgb(240, 231, 219)
+}
+.Feature-head{
+  
+    margin: 12px 0 8px;
+    color: #2f2f2f;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    position: relative;
+
+
+}
+
+button {
+    background-color: rgb(159, 21, 67);
+    border: none;
+    border-radius: 8px;
+    padding: 12px 26px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button a.bt {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    display: inline-block;
+}
+button:hover {
+    background-color: rgb(130, 18, 55);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
