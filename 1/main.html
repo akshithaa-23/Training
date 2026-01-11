@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> nsurance Enquiry & Feedback</title>
+    <link rel="stylesheet "href="./style.css"> 
+</head>
+<body>
+    <div class="cont">
+        <p><b>Fill out the form to enquire about insurance plans or share your feedback with us</b></p>
+        <form class="formbox">
+            <label for="fname">Full name:</label><br>
+            <input type="text" id="fname" name="fname" required><br>
+             <label for="email">Email:</label><br>
+            <input type="text" id="email" name="email" required><br>
+             <label for="mno">Mobile Number:</label><br>
+            <input type="tel" id="mno" name="mno" required><br>
+            <label for="requestType">Request Type:</label><br />
+             <select id="requestType" name="requestType" required>
+             <option value="">--Select--</option>
+             <option value="policy-enquiry">Policy Enquiry</option>
+             <option value="claim-related">Claim Related</option>
+             <option value="feedback">Feedback</option>
+             </select>
+            <br /><br />
+
+            <label for="policyType">Policy Type:</label><br />
+           <select id="policyType" name="policyType" required>
+           <option value="">--Select--</option>
+           <option value="health">Health Insurance</option>
+           <option value="life">Life Insurance</option>
+           <option value="vehicle">Vehicle Insurance</option>
+           <option value="home">Home Insurance</option>
+           </select>
+           <br /><br />
+
+           <label for="message">Message:</label><br />
+           <textarea id="message" name="message" rows="4" cols="30" required></textarea>
+           <br /><br />
+           <div class="exp">
+         <label>Experience Rating:</label><br />
+         <input type="radio" id="rate1" name="rating" value="1" required />
+        <label for="rate1">1</label>
+
+        <input type="radio" id="rate2" name="rating" value="2" />
+        <label for="rate2">2</label>
+
+         <input type="radio" id="rate3" name="rating" value="3" />
+         <label for="rate3">3</label>
+
+         <input type="radio" id="rate4" name="rating" value="4" />
+         <label for="rate4">4</label>
+
+         <input type="radio" id="rate5" name="rating" value="5" />
+         <label for="rate5">5</label>
+        <br /><br />
+        </div>
+    <button type="submit">Submit</button>
+        </form>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
