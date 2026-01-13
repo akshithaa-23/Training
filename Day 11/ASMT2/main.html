@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="plans">
+<div class="policy-card" onclick="openPolicy('Health')">
+  <h3>Health Insurance</h3>
+  <p>Coverage: ₹5,00,000</p>
+  <p>Premium: ₹3,000</p>
+
+  <button class="delete-btn" onclick="deletePolicy(event)">Delete</button>
+</div>
+
+<div class="policy-card" onclick="openPolicy('Life')">
+  <h3>Life Insurance</h3>
+  <p>Coverage: ₹10,00,000</p>
+  <p>Premium: ₹5,000</p>
+
+  <button class="delete-btn" onclick="deletePolicy(event)">Delete</button>
+</div>
+<div class="dashboard">
+    <h1>Insurance Claims Dashboard</h1>
+
+    <div class="claimRow" >
+      <div class="claimInfo">
+        <p><b>Claim ID:</b> CLM101</p>
+        <p><b>Customer:</b> Ravi Kumar</p>
+        <p><b>Status:</b> Pending</p>
+      </div>
+      <button class="approveBtn">Approve Claim</button>
+    </div>
+
+    <div class="claimRow" >
+      <div class="claimInfo">
+        <p><b>Claim ID:</b> CLM102</p>
+        <p><b>Customer:</b> Anita Sharma</p>
+        <p><b>Status:</b> Pending</p>
+      </div>
+      <button class="approveBtn">Approve Claim</button>
+    </div>
+
+    <div class="claimRow" >
+      <div class="claimInfo">
+        <p><b>Claim ID:</b> CLM103</p>
+        <p><b>Customer:</b> Kiran Reddy</p>
+        <p><b>Status:</b> Pending</p>
+      </div>
+      <button class="approveBtn">Approve Claim</button>
+    </div>
+</div>
+<br>
+    <div id="paymentSection" >
+        <button id="pay">Pay Premium</button>
+
+    </div>
+     <div id="paymentSection2" >
+        <button id="pay2">Pay Amount</button>
+    </div>
+    <script src="./evnts.js"></script>
+</body>
+</html>
