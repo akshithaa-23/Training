@@ -1,0 +1,51 @@
+
+
+.head {
+  position: sticky;
+  top:0;
+  z-index: 1000;
+ background:white;
+}
+
+.head-bar {
+  width: 100%;
+  padding: 0 80px;      
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+   
+}
+
+
+/* LOGO */
+.the-logo {
+  height: auto;
+  width: 150px;
+}
+
+/* NAV MENU */
+.nav {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  gap: 35px;
+}
+
+.list li a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #111;
+  font-weight: 500;
+  padding: 4px 2px;
+}
+
+.list li a:hover {
+    color: black;
+    border-bottom: 1.5px solid black;
+}
+

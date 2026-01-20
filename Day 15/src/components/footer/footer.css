@@ -1,0 +1,27 @@
+.foot{
+    background:rgb(159, 21, 67);
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-evenly;
+        margin-top: auto;
+}
+.foot-bar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px 40px;
+   
+}
+
+.foot-bar2 {
+    text-align:end;
+    padding: 20px;
+    font-size: 15px;
+    color: white;
+    background-color:rgb(159, 21, 67);
+}
+
+.foot-bar2 p {
+    margin: 5px 0;
+}
