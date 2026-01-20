@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Banking Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>Online Banking Operations Dashboard</h1>
+
+  <!-- Search + Filter -->
+  <div class="controls">
+    <input type="text" id="searchInput" placeholder="Search by holder name..." />
+
+    <select id="branchFilter">
+      <option value="all">All Branches</option>
+    </select>
+  </div>
+  <button id="sortBtn">Sort by Balance (High → Low)</button>
+
+  <!-- Total Balance -->
+  <h3 id="totalBalance">Total Bank Balance : </h3>
+
+  <!-- Create Account -->
+  <h2>Create New Account</h2>
+  <form id="createForm">
+    <input id="name" type="text" placeholder="Name" required />
+    <input id="email" type="email" placeholder="Email" required />
+    <input id="branch" type="text" placeholder="Branch" required />
+    <button type="submit">Create Account</button>
+  </form>
+
+  <hr />
+  <!-- Accounts -->
+  <h2>Accounts</h2>
+  <div id="accounts" class="accounts"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
