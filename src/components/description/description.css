@@ -1,0 +1,11 @@
+.des{
+    text-align: center;
+    /* padding:30px 0px; */
+    background-color:rgb(244, 231, 214);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.des p{
+    padding-top: 5px;
+
+}
