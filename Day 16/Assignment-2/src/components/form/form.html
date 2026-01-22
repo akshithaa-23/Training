@@ -1,0 +1,71 @@
+<div class="min-h-screen bg-gray-50 flex flex-col items-center p-6">
+  <h2 class="text-3xl font-extrabold mb-6 text-gray-800">
+    My Basic CRUD Operations
+  </h2>
+
+  <!-- FORM CARD -->
+  <div class="w-full max-w-md bg-white shadow-lg rounded-xl p-6 border border-gray-200">
+    <h3 class="text-lg font-semibold mb-4 text-gray-700">Add / Update User</h3>
+
+    <label class="block text-sm font-medium text-gray-600 mb-1">Name</label>
+    <input
+      type="text"
+      [(ngModel)]="user.name"
+      placeholder="Enter name"
+      class="w-full border border-gray-300 px-3 py-2 rounded-lg mb-4 outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+    />
+
+    <label class="block text-sm font-medium text-gray-600 mb-1">Email</label>
+    <input
+      type="email"
+      [(ngModel)]="user.email"
+      placeholder="Enter email"
+      class="w-full border border-gray-300 px-3 py-2 rounded-lg mb-5 outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+    />
+
+    <button
+      (click)="saveUser()"
+      class="w-full py-2 rounded-lg font-semibold text-white transition
+      bg-blue-600 hover:bg-blue-700"
+    >
+      {{ isEditMode ? "Update" : "Add" }} User
+    </button>
+  </div>
+
+  <!-- TABLE CARD -->
+  <div class="w-full max-w-3xl mt-10 bg-white shadow-lg rounded-xl p-6 border border-gray-200">
+    <h3 class="text-lg font-semibold mb-4 text-gray-700">User List</h3>
+
+    <div class="overflow-x-auto">
+      <table class="w-full border-collapse">
+        <tr class="bg-gray-100 text-gray-700">
+          <th class="px-4 py-3 text-left font-semibold border-b">Name</th>
+          <th class="px-4 py-3 text-left font-semibold border-b">Email</th>
+          <th class="px-4 py-3 text-left font-semibold border-b">Actions</th>
+        </tr>
+
+        @for (u of users; track $index) {
+        <tr class="hover:bg-gray-50 transition">
+          <td class="px-4 py-3 border-b">{{ u.name }}</td>
+          <td class="px-4 py-3 border-b">{{ u.email }}</td>
+          <td class="px-4 py-3 border-b space-x-2">
+            <button
+              (click)="editUser(u)"
+              class="px-3 py-1 rounded-lg text-white bg-green-600 hover:bg-green-700 transition"
+            >
+              Edit
+            </button>
+
+            <button
+              (click)="deleteUser(u.id)"
+              class="px-3 py-1 rounded-lg text-white bg-red-600 hover:bg-red-700 transition"
+            >
+              Delete
+            </button>
+          </td>
+        </tr>
+        }
+      </table>
+    </div>
+  </div>
+</div>
