@@ -1,0 +1,164 @@
+<div class="min-h-screen bg-gray-50 flex flex-col items-center p-6">
+
+  <!-- Title -->
+  <h2 class="text-3xl font-extrabold text-gray-800 mb-6">
+    Product CRUD
+  </h2>
+
+  <!-- Main Grid -->
+  <div class="w-full max-w-5xl grid grid-cols-1 md:grid-cols-3 gap-6">
+
+    <!-- FORM -->
+    <div class="bg-white rounded-xl shadow-md border border-gray-200 p-6">
+      <h3 class="text-lg font-semibold text-gray-700 mb-4">
+        {{ isEdit ? 'Update Product' : 'Add Product' }}
+      </h3>
+
+      <!-- Name -->
+      <label class="block text-sm font-medium text-gray-600 mb-1">Name</label>
+      <input
+        [(ngModel)]="product.name"
+        type="text"
+        placeholder="Enter product name"
+        class="w-full border border-gray-300 px-3 py-2 rounded-lg mb-3 outline-none
+               focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+      />
+
+      <!-- Brand -->
+      <label class="block text-sm font-medium text-gray-600 mb-1">Brand</label>
+      <input
+        [(ngModel)]="product.brand"
+        type="text"
+        placeholder="Enter brand"
+        class="w-full border border-gray-300 px-3 py-2 rounded-lg mb-3 outline-none
+               focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+      />
+
+      <!-- Price -->
+      <label class="block text-sm font-medium text-gray-600 mb-1">Price</label>
+      <input
+        [(ngModel)]="product.price"
+        type="number"
+        placeholder="Enter price"
+        class="w-full border border-gray-300 px-3 py-2 rounded-lg mb-3 outline-none
+               focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+      />
+
+      <!-- Category -->
+      <label class="block text-sm font-medium text-gray-600 mb-1">Category</label>
+      <input
+        [(ngModel)]="product.category"
+        type="text"
+        placeholder="Electronics / Home ..."
+        class="w-full border border-gray-300 px-3 py-2 rounded-lg mb-3 outline-none
+               focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+      />
+
+      <!-- Stock -->
+      <label class="block text-sm font-medium text-gray-600 mb-1">Stock</label>
+      <input
+        [(ngModel)]="product.stock"
+        type="number"
+        placeholder="Enter stock count"
+        class="w-full border border-gray-300 px-3 py-2 rounded-lg mb-3 outline-none
+               focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+      />
+
+      <!-- Rating -->
+      <label class="block text-sm font-medium text-gray-600 mb-1">Rating</label>
+      <input
+        [(ngModel)]="product.rating"
+        type="number"
+        step="0.1"
+        placeholder="0 - 5"
+        class="w-full border border-gray-300 px-3 py-2 rounded-lg mb-5 outline-none
+               focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+      />
+
+      <!-- Buttons -->
+      <div class="flex gap-3">
+        <button
+          (click)="addProduct()"
+          class="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-semibold
+                 py-2 rounded-lg transition"
+        >
+          {{ isEdit ? 'Update' : 'Add' }}
+        </button>
+
+        <button
+          (click)="resetForm()"
+          class="flex-1 border border-gray-300 hover:bg-gray-100 text-gray-700 font-semibold
+                 py-2 rounded-lg transition"
+        >
+          Reset
+        </button>
+      </div>
+    </div>
+
+    <!-- QUICK VIEW -->
+    <div class="bg-white rounded-xl shadow-md border border-gray-200 p-6">
+      <h3 class="text-lg font-semibold text-gray-700 mb-4">Quick View</h3>
+
+      @if (singleProduct$ | async; as sp) {
+        <div class="space-y-2 text-gray-700">
+          <p><span class="font-semibold">Name:</span> {{ sp.name }}</p>
+          <p><span class="font-semibold">Brand:</span> {{ sp.brand }}</p>
+          <p><span class="font-semibold">Price:</span> ₹{{ sp.price }}</p>
+          <p><span class="font-semibold">Category:</span> {{ sp.category }}</p>
+          <p><span class="font-semibold">Stock:</span> {{ sp.stock }}</p>
+          <p><span class="font-semibold">Rating:</span> ⭐ {{ sp.rating }}</p>
+        </div>
+      } @else {
+        <p class="text-sm text-gray-500">
+          Click <b>View</b> to see product details here.
+        </p>
+      }
+    </div>
+
+    <!-- PRODUCT LIST -->
+    <div class="bg-white rounded-xl shadow-md border border-gray-200 p-6 md:col-span-1">
+      <h3 class="text-lg font-semibold text-gray-700 mb-4">Product List</h3>
+
+      <div class="overflow-auto max-h-[430px]">
+        <table class="w-full border-collapse text-sm">
+          <tr class="bg-gray-100 text-gray-700 sticky top-0">
+            <th class="text-left px-3 py-2 border-b">Name</th>
+            <th class="text-left px-3 py-2 border-b">Price</th>
+            <th class="text-left px-3 py-2 border-b">Actions</th>
+          </tr>
+
+          @for (p of (products$ | async); track $index) {
+            <tr class="hover:bg-gray-50 transition">
+              <td class="px-3 py-2 border-b">{{ p.name }}</td>
+              <td class="px-3 py-2 border-b">₹{{ p.price }}</td>
+
+              <td class="px-3 py-2 border-b space-x-2">
+                <button
+                  (click)="showQuickProduct(p.id)"
+                  class="px-2 py-1 rounded-md bg-gray-200 hover:bg-gray-300 transition"
+                >
+                  View
+                </button>
+
+                <button
+                  (click)="editProduct(p)"
+                  class="px-2 py-1 rounded-md bg-green-600 hover:bg-green-700 text-white transition"
+                >
+                  Edit
+                </button>
+
+                <button
+                  (click)="deleteProduct(p.id)"
+                  class="px-2 py-1 rounded-md bg-red-600 hover:bg-red-700 text-white transition"
+                >
+                  Delete
+                </button>
+              </td>
+            </tr>
+          }
+        </table>
+      </div>
+    </div>
+
+  </div>
+</div>

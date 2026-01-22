@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "Wireless Mouse",
+      "brand": "Logitech",
+      "price": 799,
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": 102,
+      "name": "Bluetooth Headphones",
+      "brand": "Boat",
+      "price": 1499,
+      "category": "Electronics",
+      "stock": 40,
+      "rating": 4.3
+    },
+    {
+      "id": 103,
+      "name": "Smart Watch",
+      "brand": "Noise",
+      "price": 1999,
+      "category": "Wearables",
+      "stock": 15,
+      "rating": 4.2
+    },
+    {
+      "id": 104,
+      "name": "Laptop Bag",
+      "brand": "American Tourister",
+      "price": 999,
+      "category": "Accessories",
+      "stock": 30,
+      "rating": 4.4
+    },
+    {
+      "id": 105,
+      "name": "Water Bottle (1L)",
+      "brand": "Milton",
+      "price": 299,
+      "category": "Home",
+      "stock": 50,
+      "rating": 4.1
+    },
+    {
+      "id": 106,
+      "name": "Gaming Keyboard",
+      "brand": "Redragon",
+      "price": 2199,
+      "category": "Electronics",
+      "stock": 12,
+      "rating": 4.6
+    }
+  ]
+}

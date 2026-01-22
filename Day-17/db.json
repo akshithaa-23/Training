@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "brand": "Dell",
+      "price": 899.99,
+      "category": "Electronics",
+      "stock": 15,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "brand": "Logitech",
+      "price": 29.99,
+      "category": "Accessories",
+      "stock": 50,
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "brand": "Corsair",
+      "price": 129.99,
+      "category": "Accessories",
+      "stock": 30,
+      "rating": 4.7
+    },
+    {
+      "name": "Watch",
+      "brand": "Apple",
+      "price": 50000,
+      "category": "Electronics",
+      "stock": 1,
+      "rating": 3.95,
+      "id": 4
+    }
+  ]
+}
