@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekAssignment-5", "WeekAssignment-5\WeekAssignment-5.csproj", "{EC5C9254-888E-4163-B9E7-BE215A3FCEC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryLib", "SalaryLib\SalaryLib.csproj", "{82EF5942-F8A3-4DAE-B36D-3336FF0DA438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5C9254-888E-4163-B9E7-BE215A3FCEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5C9254-888E-4163-B9E7-BE215A3FCEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5C9254-888E-4163-B9E7-BE215A3FCEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5C9254-888E-4163-B9E7-BE215A3FCEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EF5942-F8A3-4DAE-B36D-3336FF0DA438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EF5942-F8A3-4DAE-B36D-3336FF0DA438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EF5942-F8A3-4DAE-B36D-3336FF0DA438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EF5942-F8A3-4DAE-B36D-3336FF0DA438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96080ED9-F0F6-4DDB-98E1-A42918ED9F74}
+	EndGlobalSection
+EndGlobal

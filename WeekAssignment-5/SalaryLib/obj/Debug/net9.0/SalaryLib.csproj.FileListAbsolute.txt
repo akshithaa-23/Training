@@ -1,0 +1,11 @@
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\bin\Debug\net9.0\SalaryLib.deps.json
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\bin\Debug\net9.0\SalaryLib.dll
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\bin\Debug\net9.0\SalaryLib.pdb
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\obj\Debug\net9.0\SalaryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\obj\Debug\net9.0\SalaryLib.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\obj\Debug\net9.0\SalaryLib.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\obj\Debug\net9.0\SalaryLib.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\obj\Debug\net9.0\SalaryLib.dll
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\obj\Debug\net9.0\refint\SalaryLib.dll
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\obj\Debug\net9.0\SalaryLib.pdb
+C:\Users\akshi\OneDrive\Documents\Desktop\Training\.Net\Day 1\WeekAssignment-5\SalaryLib\obj\Debug\net9.0\ref\SalaryLib.dll
