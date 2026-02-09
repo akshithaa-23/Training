@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceConsoleApp", "InsuranceConsoleApp\InsuranceConsoleApp.csproj", "{0871A68C-D5AE-402B-A975-43EA8A8254FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceLibrary", "InsuranceLibrary\InsuranceLibrary.csproj", "{1DA4F64E-34B8-48F2-A1E1-C50BC608403E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0871A68C-D5AE-402B-A975-43EA8A8254FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0871A68C-D5AE-402B-A975-43EA8A8254FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0871A68C-D5AE-402B-A975-43EA8A8254FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0871A68C-D5AE-402B-A975-43EA8A8254FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA4F64E-34B8-48F2-A1E1-C50BC608403E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA4F64E-34B8-48F2-A1E1-C50BC608403E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA4F64E-34B8-48F2-A1E1-C50BC608403E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA4F64E-34B8-48F2-A1E1-C50BC608403E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFFB0659-5564-4BA5-8C19-1E67E710EF7F}
+	EndGlobalSection
+EndGlobal

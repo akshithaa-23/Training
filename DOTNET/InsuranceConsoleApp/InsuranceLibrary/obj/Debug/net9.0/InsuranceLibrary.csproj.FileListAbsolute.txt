@@ -1,0 +1,11 @@
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.deps.json
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.dll
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\bin\Debug\net9.0\InsuranceLibrary.pdb
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.AssemblyInfoInputs.cache
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.AssemblyInfo.cs
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.csproj.CoreCompileInputs.cache
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.dll
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\refint\InsuranceLibrary.dll
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\InsuranceLibrary.pdb
+D:\.Net\InsuranceConsoleApp\InsuranceLibrary\obj\Debug\net9.0\ref\InsuranceLibrary.dll
