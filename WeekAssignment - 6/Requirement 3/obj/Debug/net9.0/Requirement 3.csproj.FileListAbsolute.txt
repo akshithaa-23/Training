@@ -1,0 +1,14 @@
+D:\.Net\WeekAssignment - 6\Requirement 3\bin\Debug\net9.0\Requirement 3.exe
+D:\.Net\WeekAssignment - 6\Requirement 3\bin\Debug\net9.0\Requirement 3.deps.json
+D:\.Net\WeekAssignment - 6\Requirement 3\bin\Debug\net9.0\Requirement 3.runtimeconfig.json
+D:\.Net\WeekAssignment - 6\Requirement 3\bin\Debug\net9.0\Requirement 3.dll
+D:\.Net\WeekAssignment - 6\Requirement 3\bin\Debug\net9.0\Requirement 3.pdb
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\Requirement 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\Requirement 3.AssemblyInfoInputs.cache
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\Requirement 3.AssemblyInfo.cs
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\Requirement 3.csproj.CoreCompileInputs.cache
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\Requirement 3.dll
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\refint\Requirement 3.dll
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\Requirement 3.pdb
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\Requirement 3.genruntimeconfig.cache
+D:\.Net\WeekAssignment - 6\Requirement 3\obj\Debug\net9.0\ref\Requirement 3.dll
