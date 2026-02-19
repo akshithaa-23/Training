@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\BasicAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\models\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\models\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\migrations\\20260217090954_auth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\migrations\\20260217090954_auth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|d:\\.net\\basicauthentication\\basicauthentication\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDAF4E3-87A4-4312-B27B-1456C04DAF6C}|BasicAuthentication\\BasicAuthentication.csproj|solutionrelative:basicauthentication\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BasicAuthentication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:10:52.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BasicAuthentication\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:10:50.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260217090954_auth1.cs",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Migrations\\20260217090954_auth1.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Migrations\\20260217090954_auth1.cs",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Migrations\\20260217090954_auth1.cs",
+              "RelativeToolTip": "BasicAuthentication\\Migrations\\20260217090954_auth1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:09:55.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Models\\AuthContext.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Models\\AuthContext.cs",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Models\\AuthContext.cs",
+              "RelativeToolTip": "BasicAuthentication\\Models\\AuthContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:08:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Program.cs",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Program.cs",
+              "RelativeToolTip": "BasicAuthentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:06:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "BasicAuthentication\\appsettings.json",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\appsettings.json",
+              "RelativeToolTip": "BasicAuthentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T09:05:50.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "BasicAuthentication\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:04:03.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "BasicAuthentication\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:03:01.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BasicAuthentication\\Models\\User.cs",
+              "ToolTip": "D:\\.Net\\BasicAuthentication\\BasicAuthentication\\Models\\User.cs",
+              "RelativeToolTip": "BasicAuthentication\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:58:00.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
