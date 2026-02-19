@@ -6273,11 +6273,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\BooksAPI\\BooksAPI.csproj",
+      "projectUniqueName": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\BooksAPI\\BooksAPI.csproj",
       "projectName": "BooksAPI",
-      "projectPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\BooksAPI\\BooksAPI.csproj",
+      "projectPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\BooksAPI\\BooksAPI.csproj",
       "packagesPath": "C:\\Users\\akshi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\BooksAPI\\obj\\",
+      "outputPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\BooksAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LsqZAVf0TQU=",
+  "dgSpecHash": "J42v9R3mY4w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\BooksAPI\\BooksAPI.csproj",
+  "projectFilePath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\BooksAPI\\BooksAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akshi\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\akshi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.Net\\week-7-assignment (2)\\",
+  "WorkspaceRootPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-Sql\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA34A4C-E6EE-4CB9-A869-BF79C845FB49}|BookAPISql\\BookAPISql.csproj|d:\\.net\\week-7-assignment (2)\\bookapisql\\bookapisql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0DA34A4C-E6EE-4CB9-A869-BF79C845FB49}|BookAPISql\\BookAPISql.csproj|c:\\users\\akshi\\onedrive\\documents\\desktop\\assignments\\dotnet\\weekassignment-7\\bookapi-sql\\bookapisql\\models\\bookscatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA34A4C-E6EE-4CB9-A869-BF79C845FB49}|BookAPISql\\BookAPISql.csproj|solutionrelative:bookapisql\\models\\bookscatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA34A4C-E6EE-4CB9-A869-BF79C845FB49}|BookAPISql\\BookAPISql.csproj|c:\\users\\akshi\\onedrive\\documents\\desktop\\assignments\\dotnet\\weekassignment-7\\bookapi-sql\\bookapisql\\bookapisql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0DA34A4C-E6EE-4CB9-A869-BF79C845FB49}|BookAPISql\\BookAPISql.csproj|solutionrelative:bookapisql\\bookapisql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -25,33 +29,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookAPISql",
-              "DocumentMoniker": "D:\\.Net\\week-7-assignment (2)\\BookAPISql\\BookAPISql.csproj",
+              "Title": "BooksCatContext.cs",
+              "DocumentMoniker": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-Sql\\BookAPISql\\Models\\BooksCatContext.cs",
+              "RelativeDocumentMoniker": "BookAPISql\\Models\\BooksCatContext.cs",
+              "ToolTip": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-Sql\\BookAPISql\\Models\\BooksCatContext.cs",
+              "RelativeToolTip": "BookAPISql\\Models\\BooksCatContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:12:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookDB/True/SqlTable/dbo.categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookDB/True/SqlTable/dbo.categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-17T03:47:49.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.bookss.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookDB/True/SqlTable/dbo.bookss.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookDB/True/SqlTable/dbo.bookss.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-17T03:47:23.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookAPISql.csproj",
+              "DocumentMoniker": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-Sql\\BookAPISql\\BookAPISql.csproj",
               "RelativeDocumentMoniker": "BookAPISql\\BookAPISql.csproj",
-              "ToolTip": "D:\\.Net\\week-7-assignment (2)\\BookAPISql\\BookAPISql.csproj",
+              "ToolTip": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-Sql\\BookAPISql\\BookAPISql.csproj",
               "RelativeToolTip": "BookAPISql\\BookAPISql.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-17T03:44:19.46Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.categories.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookDB/True/SqlTable/dbo.categories.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookDB/True/SqlTable/dbo.categories.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-02-16T17:45:23.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.bookss.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookDB/True/SqlTable/dbo.bookss.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BookDB/True/SqlTable/dbo.bookss.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-02-16T17:45:10.895Z"
             }
           ]
         }

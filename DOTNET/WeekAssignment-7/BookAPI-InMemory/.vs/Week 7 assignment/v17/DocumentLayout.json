@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\",
+  "WorkspaceRootPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68DB5C30-E231-45A8-94C8-153A322B539D}|BooksAPI\\BooksAPI.csproj|c:\\users\\akshi\\onedrive\\documents\\desktop\\assignments\\dotnet\\week 7 assignment\\bookapi-inmemory\\booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{68DB5C30-E231-45A8-94C8-153A322B539D}|BooksAPI\\BooksAPI.csproj|c:\\users\\akshi\\onedrive\\documents\\desktop\\assignments\\dotnet\\weekassignment-7\\bookapi-inmemory\\booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{68DB5C30-E231-45A8-94C8-153A322B539D}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DB5C30-E231-45A8-94C8-153A322B539D}|BooksAPI\\BooksAPI.csproj|c:\\users\\akshi\\onedrive\\documents\\desktop\\assignments\\dotnet\\week 7 assignment\\bookapi-inmemory\\booksapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68DB5C30-E231-45A8-94C8-153A322B539D}|BooksAPI\\BooksAPI.csproj|c:\\users\\akshi\\onedrive\\documents\\desktop\\assignments\\dotnet\\weekassignment-7\\bookapi-inmemory\\booksapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68DB5C30-E231-45A8-94C8-153A322B539D}|BooksAPI\\BooksAPI.csproj|solutionrelative:booksapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\BooksAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\BooksAPI\\appsettings.json",
               "RelativeDocumentMoniker": "BooksAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\BooksAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\BooksAPI\\appsettings.json",
               "RelativeToolTip": "BooksAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\BooksAPI\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\BooksAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "BooksAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\Week 7 Assignment\\BookAPI-InMemory\\BooksAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\WeekAssignment-7\\BookAPI-InMemory\\BooksAPI\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "BooksAPI\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
