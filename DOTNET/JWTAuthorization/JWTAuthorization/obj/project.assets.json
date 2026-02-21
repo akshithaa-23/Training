@@ -4164,11 +4164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net\\Frontend-Backend\\Backend\\JWTAuthorization\\JWTAuthorization\\JWTAuthorization.csproj",
+      "projectUniqueName": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\JWTAuthorization\\JWTAuthorization\\JWTAuthorization.csproj",
       "projectName": "JWTAuthorization",
-      "projectPath": "D:\\.Net\\Frontend-Backend\\Backend\\JWTAuthorization\\JWTAuthorization\\JWTAuthorization.csproj",
+      "projectPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\JWTAuthorization\\JWTAuthorization\\JWTAuthorization.csproj",
       "packagesPath": "C:\\Users\\akshi\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net\\Frontend-Backend\\Backend\\JWTAuthorization\\JWTAuthorization\\obj\\",
+      "outputPath": "C:\\Users\\akshi\\OneDrive\\Documents\\Desktop\\Assignments\\DOTNET\\JWTAuthorization\\JWTAuthorization\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
