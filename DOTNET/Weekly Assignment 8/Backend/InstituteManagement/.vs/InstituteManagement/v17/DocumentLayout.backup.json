@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23C9FE-BC5A-4C6C-A5CA-F2BDE37DEA9B}|Infrastructure\\Infrastructure.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23C9FE-BC5A-4C6C-A5CA-F2BDE37DEA9B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\domain\\entities\\studymaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\studymaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F4682-57CB-4E72-805C-BC6FBB5C2D79}|Application\\Application.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\application\\dtos\\studymaterialdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F4682-57CB-4E72-805C-BC6FBB5C2D79}|Application\\Application.csproj|solutionrelative:application\\dtos\\studymaterialdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F4682-57CB-4E72-805C-BC6FBB5C2D79}|Application\\Application.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\application\\dtos\\feedbackdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F4682-57CB-4E72-805C-BC6FBB5C2D79}|Application\\Application.csproj|solutionrelative:application\\dtos\\feedbackdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\api\\controllers\\studymaterialontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|solutionrelative:api\\controllers\\studymaterialontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|solutionrelative:api\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InstituteDB/True/SqlTable/dbo.Feedbacks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InstituteDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F261EC8-BA10-43FD-B1BC-80857461EC74}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23C9FE-BC5A-4C6C-A5CA-F2BDE37DEA9B}|Infrastructure\\Infrastructure.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23C9FE-BC5A-4C6C-A5CA-F2BDE37DEA9B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F4682-57CB-4E72-805C-BC6FBB5C2D79}|Application\\Application.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{647F4682-57CB-4E72-805C-BC6FBB5C2D79}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23C9FE-BC5A-4C6C-A5CA-F2BDE37DEA9B}|Infrastructure\\Infrastructure.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23C9FE-BC5A-4C6C-A5CA-F2BDE37DEA9B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D2EC0F-8247-4D6F-99BA-8279EF170996}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F4682-57CB-4E72-805C-BC6FBB5C2D79}|Application\\Application.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F4682-57CB-4E72-805C-BC6FBB5C2D79}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED23C9FE-BC5A-4C6C-A5CA-F2BDE37DEA9B}|Infrastructure\\Infrastructure.csproj|d:\\.net\\weekly assignment 8\\backend\\institutemanagement\\infrastructure\\migrations\\20260222155600_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23C9FE-BC5A-4C6C-A5CA-F2BDE37DEA9B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20260222155600_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA5wFIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:07:47.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Feedbacks.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InstituteDB/True/SqlTable/dbo.Feedbacks.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InstituteDB/True/SqlTable/dbo.Feedbacks.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-22T17:07:50.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260222155600_feedback.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Infrastructure\\Migrations\\20260222155600_feedback.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260222155600_feedback.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Infrastructure\\Migrations\\20260222155600_feedback.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20260222155600_feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T15:56:00.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Controllers\\FeedbackController.cs*",
+              "RelativeToolTip": "API\\Controllers\\FeedbackController.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T15:53:36.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeedbackDtos.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Application\\DTOs\\FeedbackDtos.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\FeedbackDtos.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Application\\DTOs\\FeedbackDtos.cs",
+              "RelativeToolTip": "Application\\DTOs\\FeedbackDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T15:52:43.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Entities\\Feedback.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Feedback.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Entities\\Feedback.cs",
+              "RelativeToolTip": "Domain\\Entities\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T15:52:11.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudyMaterialontroller.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Controllers\\StudyMaterialontroller.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\StudyMaterialontroller.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Controllers\\StudyMaterialontroller.cs*",
+              "RelativeToolTip": "API\\Controllers\\StudyMaterialontroller.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:21:44.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:20:52.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudyMaterialDtos.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Application\\DTOs\\StudyMaterialDtos.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\StudyMaterialDtos.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Application\\DTOs\\StudyMaterialDtos.cs",
+              "RelativeToolTip": "Application\\DTOs\\StudyMaterialDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:20:31.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudyMaterial.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Entities\\StudyMaterial.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\StudyMaterial.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Entities\\StudyMaterial.cs",
+              "RelativeToolTip": "Domain\\Entities\\StudyMaterial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:19:55.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAUwMEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:15:17.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InstituteDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InstituteDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-22T13:05:15.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T19:28:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T19:19:55.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T19:04:36.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-21T19:02:11.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "API.csproj",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T12:23:52.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T12:20:15.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:20:09.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:19:36.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "D:\\.Net\\Weekly Assignment 8\\Backend\\InstituteManagement\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:19:14.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
